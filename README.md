@@ -1,5 +1,5 @@
 # hello-world.
-I like waffles
+I like regular waffles
 and pancakes plus I like to draw
 I am a fornite gamer, 
 i know.
